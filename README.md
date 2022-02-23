@@ -1,3 +1,4 @@
 # git-practice
 このリポジトリはGit動画講座用です．
-へんしゅ
+へんしゅ　　
+new-featureブランチで変更

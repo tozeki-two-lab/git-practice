@@ -1,4 +1,4 @@
 # git-practice
 このリポジトリはGit動画講座用です．
 へんしゅ　　
-no-fast-branchブランチで変更
+mainブランチで変更(コンフリクト発生)

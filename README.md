@@ -3,4 +3,4 @@
 へんしゅ　　
 conflictブランチで変更
 >>>>>>> conflict
-github上で更新
+conflict-remote上で更新conflict発生

@@ -3,3 +3,4 @@
 へんしゅ　　
 conflictブランチで変更
 >>>>>>> conflict
+github上で更新
